@@ -1,0 +1,5 @@
+conda activate safechat_py39
+cd E:\dsa\CyberBull\Safe_Chat
+python client.py
+python server.py
+
